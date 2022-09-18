@@ -1,7 +1,12 @@
-### Hi there 👋
-🌱 I’m currently working mostly with NodeJS, React and Express.
+### Hi I'm Luka 👋🏻
+
+I'm a professional full-stack developer.
+I like working with Typescript, React and NodeJS.
 
 <!--
+🌱 I’m currently working mostly with NodeJS, React and Express.
+
+
 **lukadimnik/lukadimnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
