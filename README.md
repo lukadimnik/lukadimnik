@@ -1,7 +1,5 @@
-### Hi I'm Luka 👋🏻
-
-I'm a professional full-stack developer.
-I like working with Typescript, React and NodeJS.
+<h2 style="text-align: center">Hi I'm Luka 👋🏻</h2>
+<p style="text-align: center;">I'm a professional full-stack developer whose main tools are Typescript, React and NodeJS.</p>
 
 <!--
 🌱 I’m currently working mostly with NodeJS, React and Express.
