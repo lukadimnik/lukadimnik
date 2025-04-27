@@ -7,7 +7,7 @@ Full Stack Web Developer
 I love solving difficult problems and having fun while doing it. I tend to approach every project with a humble and open mind. My preferred stack is Typescript, NodeJS, and ReactJS but as a naturally curious mind, I'm always experimenting with different technologies to expand my knowledge base.
 
 * 🌍  I'm based in Helsinki - Finland 🇫🇮
-* ✉️  You can contact me at [luka.dimnik88@gmail.com](mailto:luka.dimnik88@gmail.com)
+* ✉️  You can contact me at [luka.dimnik@protonmail.com](mailto:luka.dimnik88@gmail.com)
 * 🧠  Currently learning Terraform, NestJS and Doman Driven Design
 * 🤝  I'm open to collaborating on any kind of interesting projects
 
