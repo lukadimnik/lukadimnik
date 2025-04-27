@@ -8,7 +8,7 @@ I love solving difficult problems and having fun while doing it. I tend to appro
 
 * 🌍  I'm based in Helsinki - Finland 🇫🇮
 * ✉️  You can contact me at [luka.dimnik88@gmail.com](mailto:luka.dimnik88@gmail.com)
-* 🧠  Currently learning AWS and Terraform
+* 🧠  Currently learning Terraform, NestJS and Doman Driven Design
 * 🤝  I'm open to collaborating on any kind of interesting projects
 
 ### Skills
