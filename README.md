@@ -1,65 +1,63 @@
-Hi 👋 My name is Luka Dimnik
-============================
+<h1 align="center">Luka Dimnik</h1>
 
-Full Stack Web Developer
-------------------------
-
-I love solving difficult problems and having fun while doing it. I tend to approach every project with a humble and open mind. My preferred stack is Typescript, NodeJS, and ReactJS but as a naturally curious mind, I'm always experimenting with different technologies to expand my knowledge base.
-
-* 🌍  I'm based in Helsinki - Finland 🇫🇮
-* ✉️  You can contact me at [luka.dimnik@protonmail.com](mailto:luka.dimnik88@gmail.com)
-* 🧠  Currently learning Terraform, NestJS and Doman Driven Design
-* 🤝  I'm open to collaborating on any kind of interesting projects
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Aws" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<p align="center">
+  <strong>Platform Engineer &amp; Engineering Lead</strong>
+  <br />
+  📍 Helsinki, Finland 🇫🇮
+  <br />
+  <a href="mailto:luka.dimnik@protonmail.com">luka.dimnik@protonmail.com</a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/lukadimnik">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/lukadimnik">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/lukadimnik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lukadimnik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+I build **platform infrastructure** and **developer tooling** — the systems that let product teams move fast without breaking things. Currently focused on Kubernetes-native architecture and event-driven systems. I approach infrastructure the same way I approach code: with strong opinions, DDD thinking, and an obsession with observability.
 
-<!--
-### Badges
+Background spans full-stack engineering, engineering leadership, and platform work. I also run a k3s homelab on Arch Linux because prod curiosity doesn't stop at 5pm.
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/lukadimnik"><img src="https://github-readme-stats.vercel.app/api?username=lukadimnik&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lukadimnik's GitHub stats" /></a>
--->
+### 🧱 Stack
 
-<!--
-🌱 I’m currently working mostly with NodeJS, React and Express.
+**Platform &amp; Orchestration**  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=k3s&logoColor=black)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+![OPA](https://img.shields.io/badge/Open%20Policy%20Agent-7D9199?style=flat-square&logo=openpolicyagent&logoColor=white)
+![Styra DAS](https://img.shields.io/badge/Styra%20DAS-2B2D42?style=flat-square)
 
+**Languages &amp; Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**lukadimnik/lukadimnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data &amp; Messaging**  
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291A38?style=flat-square&logo=testcontainers&logoColor=white)
 
-Here are some ideas to get you started:
+**Observability**  
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+![Distributed Tracing](https://img.shields.io/badge/Distributed%20Tracing-4B4B4B?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**IaC &amp; CI/CD**  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+
+---
+
+### 🎯 Current focus
+
+&rarr; **Strangler fig modernization** — extracting bounded contexts from monoliths into event-driven microservices at scale  
+&rarr; **Homelab k3s cluster** — two-node setup on Arch Linux, exploring GitOps and service mesh patterns outside of prod  
+&rarr; **Domain-Driven Design** — building Event Catalogs, ADRs, and ubiquitous language docs as first-class artifacts  
