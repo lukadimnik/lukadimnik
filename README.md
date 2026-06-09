@@ -18,7 +18,7 @@
 
 I build **platform infrastructure** and **developer tooling** — the systems that let product teams move fast without breaking things. Currently focused on Kubernetes-native architecture and event-driven systems. I approach infrastructure the same way I approach code: with strong opinions, DDD thinking, and an obsession with observability.
 
-Background spans full-stack engineering, engineering leadership, and platform work. I also run a k3s homelab on Arch Linux because prod curiosity doesn't stop at 5pm.
+Background spans full-stack engineering, engineering leadership, and platform work. I also run a k3s homelab on Linux Ubuntu server because curiosity doesn't stop at 5pm.
 
 ---
 
